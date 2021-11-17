@@ -69,4 +69,6 @@ This has been designed for Google Cardboard on an Android phone. You must have a
 - Git must be installed and the git executable must be on the PATH environment variable.
 
 
+![img2](https://user-images.githubusercontent.com/44337913/142209761-433cc40f-faf7-4a01-a191-557f511da857.png)
+![imag1](https://user-images.githubusercontent.com/44337913/142209784-8bbf8392-afe0-434d-926f-e976c5863bd2.png)
 
